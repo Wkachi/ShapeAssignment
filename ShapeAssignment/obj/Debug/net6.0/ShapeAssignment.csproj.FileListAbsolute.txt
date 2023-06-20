@@ -1,0 +1,5 @@
+C:\Users\Kachi\Desktop\Backend Dev\ShapeAssignment\ShapeAssignment\obj\Debug\net6.0\ShapeAssignment.csproj.AssemblyReference.cache
+C:\Users\Kachi\Desktop\Backend Dev\ShapeAssignment\ShapeAssignment\obj\Debug\net6.0\ShapeAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kachi\Desktop\Backend Dev\ShapeAssignment\ShapeAssignment\obj\Debug\net6.0\ShapeAssignment.AssemblyInfoInputs.cache
+C:\Users\Kachi\Desktop\Backend Dev\ShapeAssignment\ShapeAssignment\obj\Debug\net6.0\ShapeAssignment.AssemblyInfo.cs
+C:\Users\Kachi\Desktop\Backend Dev\ShapeAssignment\ShapeAssignment\obj\Debug\net6.0\ShapeAssignment.csproj.CoreCompileInputs.cache
